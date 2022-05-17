@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\camel-designer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C-62 V2 game lab template"
+	}
+}
